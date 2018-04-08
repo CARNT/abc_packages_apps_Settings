@@ -133,12 +133,15 @@ import com.android.settings.wifi.WifiInfo;
 import com.android.settings.wifi.WifiSettings;
 import com.android.settings.wifi.p2p.WifiP2pSettings;
 
+
 import com.abc.settings.AbcSettings;
 import com.abc.settings.FlingSettings;
 import com.abc.settings.NavbarSettings;
 import com.abc.settings.OtherSettings;
 import com.abc.settings.PulseSettings;
 import com.abc.settings.SmartbarSettings;
+import com.abc.settings.SmartPixels;
+
 
 public class SettingsGateway {
 
@@ -268,6 +271,7 @@ public class SettingsGateway {
             OtherSettings.class.getName(),
             SmartbarSettings.class.getName(),
             PulseSettings.class.getName(),
+            SmartPixels.class.getName()
     };
 
     public static final String[] SETTINGS_FOR_RESTRICTED = {
@@ -312,5 +316,6 @@ public class SettingsGateway {
             Settings.AbcOtherSettingsActivity.class.getName(),
             Settings.SmartbarSettingsActivity.class.getName(),
             Settings.PulseSettingsActivity.class.getName(),
+            Settings.SmartPixelsActivity.class.getName()
     };
 }
