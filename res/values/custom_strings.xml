@@ -21,8 +21,18 @@
 
     <string name="show_dev_already_enabled">No Need, Development settings are enabled by default.</string>
 
-    <string name="rom_version_title">ABC ROM version</string>
+    <string name="rom_version_title">ABC CARNTED version</string>
 
+    <!-- About ABC -->
+    <string name="about_abc_screen_title">About ABC</string>
+    <string name="about_abc_title">Who The CARNTS Are In This Rom!</string>
+    <string name="abc_about_summary">Tap Names Below To Open!</string>
+    <string name="abc_github_title">ABC Github</string>
+    <string name="nt_github_title">Noob Trees Github AKA @fwhem</string>
+    <!-- <string name="nb_github_title">Noob Builds Github AKA @fwhem</string> -->
+    <string name="me_github_title">@b-rad-vxr Github</string>
+
+    <!-- MISC -->
     <string name="twilight_mode_location_dialog">Location disabled</string>
     <string name="twilight_mode_location_disabled">Location access is disabled</string>
     <string name="twilight_mode_location_enable">Enable</string>
@@ -36,7 +46,7 @@
 
     <string name="background_processes_settings_title">Background processes</string>
 
-    <string name="abc_settings_activity">Advanced</string>
+    <string name="abc_settings_activity">CARNT Settings</string>
     <string name="abc_settings_activity_summary">Additional ROM settings</string>
 
     <!-- Custom light color -->
